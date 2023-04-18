@@ -1,0 +1,10 @@
+c:\dev\bluesoft\tests_application\flutter_rust_example\rust\target\debug\deps\allo_isolate-9f4b0c2a7829a78c.rmeta: C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\lib.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\dart_array.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\into_dart.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\into_dart_extra.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\chrono.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\ffi.rs
+
+c:\dev\bluesoft\tests_application\flutter_rust_example\rust\target\debug\deps\allo_isolate-9f4b0c2a7829a78c.d: C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\lib.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\dart_array.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\into_dart.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\into_dart_extra.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\chrono.rs C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\ffi.rs
+
+C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\lib.rs:
+C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\dart_array.rs:
+C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\into_dart.rs:
+C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\into_dart_extra.rs:
+C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\chrono.rs:
+C:\Users\naji.mouflih\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14\src\ffi.rs:
