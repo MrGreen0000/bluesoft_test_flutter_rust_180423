@@ -39,4 +39,9 @@ cargo install cargo-ndk
 
 flutter pub add --dev ffigen && flutter pub add ffi
 
+winget install -e --id LLVM.LLVM
+
+//ajouter le path dans local propreties
+//ndk.dir=C:\\Users\\naji.mouflih\\AppData\\Local\\Android\\Sdk\\ndk-bundle
+
 flutter_rust_bridge_codegen --rust-input rust/src/api.rs --dart-output lib/bridge_generated.dart
